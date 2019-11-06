@@ -1,4 +1,4 @@
-# DataScienceProjects
+# Data Science Projects
 
 In this repository I'd upload all projects related to Data Science and Analytics which I have worked on. 
 
