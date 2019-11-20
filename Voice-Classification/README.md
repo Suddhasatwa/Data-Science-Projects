@@ -1,6 +1,4 @@
-README. 
-
-# Case Study 1
+# Case Study - Voice Classification 
 
 #### Domain 
 
