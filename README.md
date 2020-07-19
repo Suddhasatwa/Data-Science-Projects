@@ -6,4 +6,4 @@ Intentionally, this project is hidden from appearing in Google searches.
 
 For each project, there will be a folder, and description to the project will be updated here as well. 
 
-Note: These projects may also be inclusive of free Kaggle competitions. 
+Note: These projects may also be inclusive of free Kaggle competitions as well as what I've learnt during the course(s) and diploma programs I've taken. 
